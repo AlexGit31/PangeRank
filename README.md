@@ -89,8 +89,6 @@ python page_rank.py
 This README.md was written with the assistance of ChatGPT, based on the code and project provided by me.
 Also, I made sure to review it.
 
-## 👤 Author
+## 👤 Authors
 
-Alexis Evaristo
-Academic project — BigData
-
+Alexis Evaristo & Hector Baril
