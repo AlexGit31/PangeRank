@@ -62,7 +62,7 @@ The project is structured into several key steps:
 
 The full report (theoretical background, derivations, results, and interpretations) is available here:
 
-👉 📘 [Access the report via GitHub Pages](https://github.com/AlexGit31/PangeRank/Report.pdf)
+👉 📘 [Access the report via GitHub Pages](https://AlexGit31.github.io/PageRank/Report.pdf)
 
 > The report is hosted using **GitHub Pages** for easy and direct access.
 
@@ -81,7 +81,7 @@ The full report (theoretical background, derivations, results, and interpretatio
 ## ▶️ How to Run
 
 ```bash
-python pagerank.py
+python page_rank.py
 ```
 
 ## 🤖 About This README
