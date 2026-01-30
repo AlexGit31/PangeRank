@@ -37,10 +37,7 @@ The project is structured into several key steps:
    - Row-stochastic normalization
 
 4. **PageRank Computation**
-   - Iterative formula:
-     \[
-     q = \beta P q + \frac{1-\beta}{s} (\sum q) v
-     \]
+   - Iterative formula: $q = \beta P q + \frac{1-\beta}{s} \sum q_i v$
    - ℓ₁ normalization
    - Convergence criterion based on ε
 
@@ -65,7 +62,7 @@ The project is structured into several key steps:
 
 The full report (theoretical background, derivations, results, and interpretations) is available here:
 
-👉 **📘 [Access the report via GitHub Pages](https://github.com/AlexGit31/PangeRank/Report.pdf) **
+👉 📘 [Access the report via GitHub Pages](https://github.com/AlexGit31/PangeRank/Report.pdf)
 
 > The report is hosted using **GitHub Pages** for easy and direct access.
 
